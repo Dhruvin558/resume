@@ -36,7 +36,7 @@ function About() {
             <br />
             <p className="title2">
               I design and develop experiences that make people’s lives simpler
-              through Websites. I work with HTML5, CSS3, JavaScript, React.A
+              through Websites. I work with HTML5, CSS3, JavaScript, React.JS
               passionate and dedicated React developer with a strong background
               in Web Developing and a flair for problem-solving.
             </p>
