@@ -52,12 +52,12 @@ function Skill() {
           <p className='sname'>JAVA</p>
         </div>
 
-        <div className='container2' data-aos='fade-right' data-aos-duration="1100">
+        {/* <div className='container2' data-aos='fade-right' data-aos-duration="1100">
           <div className='icon'>
           <TbBrandCpp />
           </div>
           <p className='sname'>C++</p>
-        </div>
+        </div> */}
 
         <div className='container2' data-aos='fade-right' data-aos-duration="1250">
           <div className='icon'>
