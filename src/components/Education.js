@@ -31,7 +31,7 @@ function Education() {
                     <div class="educontent">
                         <p className='std'>BCA Third Year</p>
                         <p className='sch'>C. B. PATEL COMPUTER COLLEGE</p>
-                        <p className='sch'>CGPA :- 64.90 </p>
+                        <p className='sch'>CGPA :- 6.50 </p>
                     </div>
                 </div>
 
