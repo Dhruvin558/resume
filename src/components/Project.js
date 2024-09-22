@@ -9,13 +9,14 @@ function Project() {
       <div className="projcont">
         <div className="project">
           <div className="project-info">
-            <h2>1. E- Commerce Website</h2>
+            <h2>1. Gym/Fitness Center Website</h2>
             <br />
             <p className="content">
-              Developed an Online E-commerce Website. This website is made with
-              HTML, CSS, and Bootstrap. It only includes the frontend of the
-              website. This website showcases a variety of products available
-              for purchase.
+              Developed a Fitness Center Website This website was created using
+              HTML, CSS, JavaScript, and React, focusing exclusively on the
+              frontend. It features an intuitive layout that highlights various
+              fitness programs, class schedules, and membership options,
+              enhancing user engagement and accessibility.
               <br />
               <br />
               <br />
