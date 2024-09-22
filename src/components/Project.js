@@ -27,7 +27,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="project">
+        {/* <div className="project">
           <div className="project-info">
             <h2>2. Record Management System</h2>
             <br />
@@ -41,9 +41,9 @@ function Project() {
             </p>
             <div className="project-links">
               {/* <a href='https://github.com/krutik8904/Record_system' className='btn-box'>See Project</a> */}
-            </div>
+            {/* </div>
           </div>
-        </div>
+        </div> */} 
       </div>
     </>
   );
