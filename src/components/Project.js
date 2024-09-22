@@ -23,7 +23,7 @@ function Project() {
             </p>
           </div>
           <div className="project-links">
-            {/* <a href='https://github.com/krutik8904/k2shop' className='btn-box'>See Project</a> */}
+            <a href='https://gym-fitness-center.netlify.app/' className='btn-box'>See Project</a>
           </div>
         </div>
 
