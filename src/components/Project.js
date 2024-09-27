@@ -23,27 +23,39 @@ function Project() {
             </p>
           </div>
           <div className="project-links">
-            <a href='https://gym-fitness-center.netlify.app/' className='btn-box'>See Project</a>
+            <a
+              href="https://gym-fitness-center.netlify.app/"
+              className="btn-box"
+            >
+              See Project
+            </a>
           </div>
         </div>
 
-        {/* <div className="project">
+        <div className="project">
           <div className="project-info">
-            <h2>2. Record Management System</h2>
+            <h2>2. Event organization</h2>
             <br />
             <p className="content">
-              Developing a Record Management System.This System Can keep Record
-              of Admin Side and user Side.Admin Can Keep Record of Book Borrow
-              by which Person and when they did return etx.
+              Developed a responsive event organization website using ReactJS,
+              featuring user-friendly navigation and smooth page transitions.
+              Integrated key functionalities for event registration and
+              information display, emphasizing dynamic content rendering and
+              efficient state management.
               <br />
               <br />
               <br />
             </p>
             <div className="project-links">
-              {/* <a href='https://github.com/krutik8904/Record_system' className='btn-box'>See Project</a> */}
-            {/* </div>
+              <a
+                href="https://github.com/krutik8904/Record_system"
+                className="btn-box"
+              >
+                See Project
+              </a>
+            </div>
           </div>
-        </div> */} 
+        </div>
       </div>
     </>
   );
