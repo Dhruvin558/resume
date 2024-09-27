@@ -1,4 +1,6 @@
 import "./About.css";
+import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
+
 import { MenuOutlined } from "@ant-design/icons";
 
 function About() {
@@ -8,17 +10,17 @@ function About() {
         <div className="navbar">
           <MenuOutlined className="menu" />
           <nav>
-            <a className="nav1" href="#about">
+            <Link spy={true} smooth={true} offset={50} duration={500} className="nav1" to="about">
               About Me
-            </a>
-            <a href="#skill">Skills</a>
-            <a href="#education">Education</a>
-            <a href="#project">Project</a>
-            <a href="#contact">Contact</a>
+            </Link>
+            <Link spy={true} smooth={true} offset={50} duration={500} to="skill">Skills</Link>
+            <Link spy={true} smooth={true} offset={50} duration={500} to="education">Education</Link>
+            <Link spy={true} smooth={true} offset={50} duration={500} to="project">Project</Link>
+            <Link spy={true} smooth={true} offset={50} duration={500} to="contact">Contact</Link>
           </nav>
         </div>
         <br />
-        <div className="container">
+        <div className="container" id="about">
           <div className="text-content">
             <p className="title1">
               Hi 👋 ,<br />

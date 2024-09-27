@@ -16,6 +16,7 @@ body{
     margin-right: 3rem;
     display: flex;
     gap: 5rem;
+    cursor:pointer;
   }
   
   .menu{

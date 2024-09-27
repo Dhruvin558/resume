@@ -14,7 +14,9 @@ function Skill() {
   });
   return (
     <>
-      <div id='skill'>My Skills</div>
+    <div id='skill'>
+
+      <p className='skillll'>My Skills</p>
 
       <div className='cointainer'>
         <div className='container2' data-aos='fade-right' data-aos-duration="300">
@@ -66,6 +68,7 @@ function Skill() {
           <p className='sname'>SQL</p>
         </div>
 
+      </div>
       </div>
     </>
   )
