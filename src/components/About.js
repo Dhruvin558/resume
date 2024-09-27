@@ -43,12 +43,12 @@ function About() {
               in Web Developing and a flair for problem-solving.
             </p>
             <div className="btn-container">
-              <a href="#contact">
+              <Link spy={true} smooth={true} offset={50} duration={500} to="contact">
               <button className="btn1">HIRE ME</button>
-              </a>
-              <a href="#project">
-              <button className="btn2">SEE MY PROJECT</button>
-              </a>
+              </Link>
+              <Link spy={true} smooth={true} offset={50} duration={500} to="project">
+              <button  className="btn2">SEE MY PROJECT</button>
+              </Link>
             </div>
           </div>
           {/* <div className="img-container">
