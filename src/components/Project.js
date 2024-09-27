@@ -48,7 +48,7 @@ function Project() {
             </p>
             <div className="project-links">
               <a
-                href="https://github.com/krutik8904/Record_system"
+                href="https://event-organizers1.netlify.app/"
                 className="btn-box"
               >
                 See Project
